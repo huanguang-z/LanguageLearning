@@ -1,0 +1,8 @@
+﻿  FlnalTest.cpp
+C:\Users\zwr\Documents\CSUOJ\CCode\CCode\FlnalTest.cpp(219,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+C:\Users\zwr\Documents\CSUOJ\CCode\CCode\FlnalTest.cpp(219,1): message : 之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+C:\Users\zwr\Documents\CSUOJ\CCode\CCode\FlnalTest.cpp(232,15): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\zwr\Documents\CSUOJ\CCode\CCode\FlnalTest.cpp(256,12): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\zwr\Documents\CSUOJ\CCode\CCode\FlnalTest.cpp(242,18): warning C4101: “j”: 未引用的局部变量
+C:\Users\zwr\Documents\CSUOJ\CCode\CCode\FlnalTest.cpp(242,16): warning C4101: “i”: 未引用的局部变量
+  CCode.vcxproj -> C:\Users\zwr\Documents\CSUOJ\CCode\x64\Debug\CCode.exe
